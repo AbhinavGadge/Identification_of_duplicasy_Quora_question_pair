@@ -1,4 +1,4 @@
-# Identification_of_duplicasy_Quora_question_pair
+# Identification_of_duplicasy_of_question_pair
 Quora is a place to gain and share knowledge—about anything. 
 
 It’s a platform to ask questions and connect with people who contribute unique insights and quality answers. 
